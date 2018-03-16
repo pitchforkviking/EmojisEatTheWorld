@@ -1,0 +1,8 @@
+{
+  "name": "EmojisEatTheWorld",
+  "app_id": "98a43bad",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
