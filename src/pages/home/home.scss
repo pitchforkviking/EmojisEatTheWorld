@@ -1,15 +1,19 @@
 .ios, .md {
 
-    page-home {
+    page-home {        
 
-        .scroll-content {
-            display: flex;
-            justify-content: center;
-            align-items: center;
+        .emoji-img {
+            height: 30%;
+            position: absolute;
+            top: 25%;
+            left: 25%;
         }
 
-        #happy {
-            height: 60%;
-        }
+        .food-img {            
+            height: 10%;
+            position: absolute;
+            bottom: 5%;
+            left: 40%;
+        }        
     }
 }
